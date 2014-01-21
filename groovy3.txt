@@ -1,0 +1,2 @@
+We can also use writers to add contents.
+See how easy it is to add text to a file.
